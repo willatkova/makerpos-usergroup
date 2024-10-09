@@ -1,2 +1,2 @@
-# kovapos-usergroup
-User Group for KovaPOS
+# makerpos-usergroup
+User Group for MakerPOS
